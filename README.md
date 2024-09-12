@@ -6,3 +6,4 @@ Filthy Monkey who cant even use Jujutsu
 lalalall
 lalalala
 <img src="Japan.jpg">
+<img src="Tori.jpg">
