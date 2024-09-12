@@ -5,3 +5,4 @@ Filthy Monkey who cant even use Jujutsu
 <h1>MONKEYS</h1>
 lalalall
 lalalala
+<img>Japan.jpg</img>
